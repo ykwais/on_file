@@ -1,1 +1,2 @@
 hello git from file2
+update file_2 by branch #2
